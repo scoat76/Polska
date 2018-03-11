@@ -56,18 +56,17 @@
 <BODY>
 
         
-<H1>ImMorTalSquaD</H1></HEADER>
-<P>        Hi! You're probably here because you're a part of the 
-<STRONG>ImMorTalSquaD</STRONG> squad on Star Wars Commander. Welcome to the team! 
+<H1>Polska01</H1></HEADER>
+<P>       Witaj! Jestes pewnie tutaj, bo zostałeś członkiem <STRONG>Polska-01</STRONG> w Star Wars Commander. Witaj w team! 
       </P>
-<H2>Team Strategy and Policy</H2>
+<H2>Strategia Teamu i Polityka</H2>
 <P>        We are a war squad. We're good at it because we adhere to a 
 consistent team strategy. To be a Bloke, we require all members to follow said 
 strategy. Teamwork is key to winning wars!       </P>
 <P>        Please see our squad policies and guidelines below.       </P>
 <OL>
   <LI>
-  <H3>Base Capability</H3>
+  <H3>Level bazy</H3>
   <P>            Please have your base's defensive capability comparable to its 
   level. Having a level 7 base with a level 5 defense is a liability we can't 
   afford. We'll usually check this when you join and let you know if your base 
@@ -76,7 +75,7 @@ strategy. Teamwork is key to winning wars!       </P>
   ask questions though, as the team is happy to help you in becoming a 
   formidable attacker.           </P></LI>
   <LI>
-  <H3>Participation</H3>
+  <H3>Uczestnictwo w wojnach</H3>
   <P>            In each war you have 3 attacks. You must use 
   <STRONG>every</STRONG> one of your attacks in each war. If you have doubts on 
   how to use them, ask a squad officer for tactical advice.           </P>
@@ -90,24 +89,21 @@ strategy. Teamwork is key to winning wars!       </P>
   you off the war squad. We do this all the time and giving the heads-up is 
   appreciated!           </P></LI>
   <LI>
-  <H3>Donations</H3>
-  <P>            Donations are critical in that you're giving them and you're 
-  giving the right kind. Squad members will let you know exactly what they need 
-  to do their best. Please donate per request and <STRONG>do not</STRONG> donate 
-  troops or vehicles that aren't requested.  We realize, though, that to fill 
-  the request you'll probably need to top the member off with a couple of 
-  stormtroopers.           </P>
-  <P><STRONG>Sullust donation requests are critical for wars.</STRONG> Squad 
-  members will often state <STRONG>exactly</STRONG> what they need on Sullust. 
-  Donating other kinds of troops or vehicles is unacceptable and will be grounds 
-  for immediate dismissal.           </P>
+  <H3>Donowanie</H3>
+  <P>            Jednostki donujemy zgodnie z opisem i zgłaszamy to. 
+ Np. ktoś prosi o 6m, to zgłaszamy że je robimy (np. 3m xyz, gdzie xyz to nazwa gracza któremu donujesz). Wtedy nikt inny nie powinien zrobić więcej niż 3m, tak abyś ty swoje mógł danej osobie wrzucić.
+Zupełnie <STRONG>nieakceptowalne</STRONG> jest wrzucanie czegokolwiek innego niż prosi o to dana osoba i grozi to <STRONG>usunięciem<STRONG> ze squadu. 
+Jedyna dowolność w wrzucaniu jednostek jest gdy ktoś nie sprecyzuje co chce np. "do pełna", "byle co", czy "please send troops".
+W sytuacji jak masz niepotrzebne jednostki najpierw pytamy czy ktoś je weźmie, nie dajemy byle komu aby się pozbyć. </P>
+  <P><STRONG>Donacja do Sullust jest krtyczna dla wojny.</STRONG> Członej squadu powie <STRONG>dokładnie</STRONG> co jest potrzebnena Sullust. 
+  Donowanie innych jednostek jest nieaakceptowanle i jest powodem do natychmiastowego usunięcia ze squadu.</P>
   <P>            Even if the squad member doesn't state a specific request for 
   Sullust defence, still be smart with donations.  Donate items like speeders, 
   snipers, or probe droids which are particularly great for war defence. Do not 
   give units like dewbacks, shock troopers, or repair droids as that'll assist 
   the enemy in grabbing more uplinks.           </P></LI>
   <LI>
-  <H3>Outposts</H3>
+  <H3>Outposty</H3>
   <P>            Outposts often dictate the tide of war. Pay close attention as 
   this is probably our most detail-oriented war tactic and can make or break the 
   team.           </P>
